@@ -1,48 +1,30 @@
 # FUTURE_CS_02
-Phishing Email Analysis & Awareness Report
- Overview
+# Phishing Email Analysis & Awareness Report
+
+## Overview
 
 Phishing is a common cyber threat where attackers trick people into clicking fake links or sharing sensitive information. This project analyzes real phishing email examples and explains how these attacks work in a simple and clear way. The goal is to help users recognize phishing emails and avoid falling for them.
 
-Objectives
+## Objectives
 
-Analyze phishing email samples
+- Analyze phishing email samples  
+- Identify common warning signs  
+- Classify emails as Safe, Suspicious, or Phishing  
+- Explain phishing attacks in simple language  
+- Share basic safety tips for users  
 
-Identify common warning signs
+## Tools Used
 
-Classify emails as Safe, Suspicious, or Phishing
+- Google Message Header Analyzer  
+- MXToolbox  
+- Public datasets for learning purposes  
 
-Explain phishing attacks in simple language
+## Methodology
 
-Share basic safety tips for users
+- Collected phishing email samples  
+- Analyzed headers where available  
+- Checked sender details and links  
+- Identified phishing indicators  
+- Classified emails by risk
+  All samples are from public sources and are used only for education and awareness.
 
-Tools Used
-
-Google Message Header Analyzer
-
-MXToolbox
-
-Public datasets for learning purposes
-
-Methodology
-
-Collected phishing email samples
-
-Analyzed headers where available
-
-Checked sender details and links
-
-Identified phishing indicators
-
-Classified emails by risk
-
-Documented findings and awareness tips
-
-Repository Structure
-Phishing-Email-Analysis-Awareness-Report/
-├── Report.pdf
-├── Phishing Email Examples/
-├── SampleHeaders/
-├── Screenshots/
-└── README.md
-All samples are from public sources and are used only for education and awareness.
