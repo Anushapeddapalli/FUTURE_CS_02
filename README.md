@@ -26,5 +26,5 @@ Phishing is a common cyber threat where attackers trick people into clicking fak
 - Checked sender details and links  
 - Identified phishing indicators  
 - Classified emails by risk
-  All samples are from public sources and are used only for education and awareness.
+ All samples are from public sources and are used only for education and awareness.
 
